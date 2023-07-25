@@ -5,12 +5,5 @@
   {"id":"2","nombre":"Ibuprofeno", "dosis":"400mg cada 6hrs.","contrain":"No usar en embarazo"},
   {"id":"3","nombre":"Aspirina", "dosis":"75mg cada 24hrs.","contrain":"No usar en menores"},  
   {"id":"4","nombre":"Diclofenaco", "dosis":"50mg cada 12hrs.","contrain":"No usar en embarazo"},
-  {"id":"5","nombre":"Acromicina", "dosis":"Consute a su medico.","contrain":"No usar en menores"},
-  {"id":"6","nombre":"Trimetroprima", "dosis":"100mg cada 12hrs.","contrain":"No usar en menores"},
-  {"id":"7","nombre":"Salbutamol", "dosis":"1-2 inhalaciones.","contrain":"No usar en embarazo"},
-  {"id":"8","nombre":"Amoxicilina", "dosis":"500mg cada 12hrs","contrain":"No usar en menores"},
-  {"id":"9","nombre":"Paracetamol", "dosis":"500 cada 6hrs","contrain":"No usar en embarazo"}
-  {"id":"10","nombre":"Tropon", "dosis":"400 cada 6hrs","contrain":"No usar en embarazo"}
-  {"id":"11","nombre":"Sinuberase", "dosis":"5 cada 24hrs","contrain":"No usar en embarazo"} 
   ]
 }
