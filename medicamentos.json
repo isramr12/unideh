@@ -10,5 +10,7 @@
   {"id":"7","nombre":"Salbutamol", "dosis":"1-2 inhalaciones.","contrain":"No usar en embarazo"},
   {"id":"8","nombre":"Amoxicilina", "dosis":"500mg cada 12hrs","contrain":"No usar en menores"},
   {"id":"9","nombre":"Paracetamol", "dosis":"500 cada 6hrs","contrain":"No usar en embarazo"}
+  {"id":"10","nombre":"Tropon", "dosis":"400 cada 6hrs","contrain":"No usar en embarazo"}
+  {"id":"11","nombre":"Sinuberase", "dosis":"5 cada 24hrs","contrain":"No usar en embarazo"} 
   ]
 }
